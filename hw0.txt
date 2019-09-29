@@ -1,3 +1,8 @@
 # Description of your program (part 7)
+Upon opening a file, the computer reads the words by separating them into single characters. Imagining that there’s a cursor generated, the computer keeps track of the word count by moving the cursor rightwards from the start to the end of the file. As the cursor hits a character, the word count increases by one. While reaching a space, the word count remains the same and the cursor skips it to find the next character. When hitting the end of the line, the cursor jumps to the next line to find the next character.
+
 
 # Reflection on writing your program (part 8)
+I think the practice would be easier if a line of code is provided. However, I think describing a computer program using plain English is a great exercise to help us understand how computer “thinks”. The assignments for CSE142 and CSE143 also require similar practices, imagining that someone reading the comments have no prior coding knowledge. When I was teaching children basic programming, I always like to ask them what a line of code does before I ask them to write the codes themselves based on the given description. As a result, I hope that we’ll have more chances to do this kind of practice, so that I can be more familiar the translation between computer language and human language. 
+
+I believe what we’ll be learning in this class will be largely implemented into daily practices, so I hope that I can take away applicable and practical coding skills and integrate them with HCDE concepts!
